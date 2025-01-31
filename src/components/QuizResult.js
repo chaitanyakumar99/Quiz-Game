@@ -14,4 +14,5 @@ function QuizResult(props) {
   
 }
 
+
 export default QuizResult
