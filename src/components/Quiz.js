@@ -6,6 +6,7 @@ function Quiz() {
     const [score,setScore] = useState(0);
     const [clickedOption,setClickedOption]=useState(0);
     const [showResult,setShowResult]=useState(false);
+
     
     const changeQuestion = ()=>{
         updateScore();
