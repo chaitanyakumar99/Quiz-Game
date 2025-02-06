@@ -7,7 +7,7 @@ export const QuizData = [
     {
         question: "What does CSS stand for?",
         options:["Central Style Sheets", "Cascading Style Sheets", "Cascading Simple Sheets", "Cars SUVs Sailboats"],
-        answer: 2
+        answer: 2  
     },
     {
         question: "What does HTML stand for?",
@@ -19,4 +19,10 @@ export const QuizData = [
         options: ["1996", "1995", "1994", "none of the above"],
         answer:2
     },
+       {
+        question:"Who invented on Java Script?",
+        options:["Brendan Eich","Tim Berners-Lee","James Gosling","Guido van Rossum"],
+        answer:1
+       }
+
 ];
