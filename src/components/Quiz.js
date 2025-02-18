@@ -30,6 +30,7 @@ function Quiz() {
         setClickedOption(0);
         setScore(0);
     }
+    
   return (
     <div>
         <p className="heading-txt">Quiz APP</p>
