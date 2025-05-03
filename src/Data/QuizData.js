@@ -24,5 +24,4 @@ export const QuizData = [
         options:["Brendan Eich","Tim Berners-Lee","James Gosling","Guido van Rossum"],
         answer:1
        }
-
 ];

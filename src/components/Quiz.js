@@ -9,7 +9,6 @@ function Quiz() {
     const [clickedOption,setClickedOption]=useState(0);
     const [showResult,setShowResult]=useState(false);
 
-    
     const changeQuestion = ()=>{
         updateScore();
         if(currentQuestion< QuizData.length-1){
@@ -31,7 +30,6 @@ function Quiz() {
         setScore(0);
     }
 
-    
   return (
     <div>
         <p className="heading-txt">Quiz APP</p>
